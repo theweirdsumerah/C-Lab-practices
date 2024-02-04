@@ -1,0 +1,12 @@
+1. Write a c++ program to accept 5 numbers from user one by one and displays their sum on screen.
+2. Write a C++ program to find out the sum of series 1 + 2 + …. + n.
+3. Write a C++ program to find out the sum of series 1^2 + 2^2 + …. + n^2.
+4. Write a C++ program to find out the sum of series 1 + 2 + 4 + 8 … to infinity.
+5. Write a C++ program to find out factorial value of given number.
+6. Write a C++ Program to Count Number of Digits of an Integer.
+7. Write a C++ Program to Reverse a Number.
+8. Write a C++ program to input any number from user and displays the total of its digits ( I/p : 321 o/p : 6)
+9. C++ Program to Calculate Average of Numbers Using Arrays.
+10. C++ Program to Find Largest Element and shortest of an Array .
+11. C++ Program to Add Two Matrix Using Multi-dimensional Arrays.
+12. C++ Program to Multiply Two Matrix Using Multi-dimensional Arrays.
