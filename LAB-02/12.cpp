@@ -11,7 +11,8 @@ int main(){
     cout<<"Enter the number of Column for 2nd matrix: ";
     cin>>col2;
     if(col1 != row2){
-        cout<<"Matrix multiplication is not possible.\nNumber of columns in first matrix must be equal to the number of rows in the second matrix."<<endl;
+        cout<<"Matrix multiplication is not possible."<<endl;
+        cout<<"Number of columns in first matrix must be equal to the number of rows in the second matrix."<<endl;
         return 1;
     }
     int mat1[row1][col1], mat2[row2][col2], product[row1][col2];
