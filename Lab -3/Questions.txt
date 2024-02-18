@@ -1,1 +1,11 @@
-
+Write a C++ program that take four functions that gets two integer and returns its sum ,subtraction, multiplication, division.
+Write a C++ program that take two functions that gets three integers and returns maximum and minimum.
+Write a function that gets length and width of a rectangle and returns area.
+Write a function that gets radius of a circle and returns area.
+Write a function that gets three numbers and returns medium.
+Write a function that gets any positive number and returns its factorial.
+Write a function that gets any positive number and returns sum of its digit.
+Write a function that gets any positive number and returns digital root.
+Write a function that gets any positive integer and returns its reverse.
+Print length of a string
+Join two strings
