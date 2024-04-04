@@ -1,0 +1,6 @@
+1. Create a class called 'Shape' with width and height attributes. Create two objects of the 'Shape' class,one is for rectangle and one is for square. Calculate the area and perimeter of the rectangle and square. (hint: square area = height*height, perimeter = 4*height)
+2. Create a class called 'Employee' with a name, salary, and hire date attributes, and a method to calculate years of service.
+3. Create a class called 'online_shopping_platform' and create objects for products. Each product object should contain information such as name, description, price.
+4. Create a class called 'Person' with a name and age attribute and two member functions called get_data and put_data. Create one object of the "Person"; class, set the attributes from user with get_data, and print name and age with put_data.
+5. Create a class called 'Rectangle' with width and height attributes. Calculate the area with a member function called calculate_area and calculate perimeter with a member function called calculate_perimeter of the rectangle using the object of the created class. (hint: area = height*width, perimeter = 2*(height+width) )
+6. Create a class called 'Library'. Create three book objects which have attributes like title, author, publication year.
