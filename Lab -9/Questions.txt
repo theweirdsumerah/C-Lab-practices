@@ -1,0 +1,13 @@
+
+1. Class A has an int n1 and class B has an int n2. Calculate the sum of two variables in class C.
+2. Write a simple class that print a random number (in between 1 - 9) every time whenever ‘n’ is pressed by keyboard
+3. Create two classes named Mammals and MarineAnimals. Create another class named BlueWhale which inherits both the above classes. Now, create a function in each of these classes which prints ‘I am mammal’,  ’I am a marine animal’ and ‘I belong to both the categories: Mammals as well as Marine Animals respectively.’ Now, create an object for each of the above class and try to calling
+1 - function of Mammals by the object of Mammal
+2 - function of MarineAnimal by the object of MarineAnimal
+3 - function of BlueWhale by the object of BlueWhale
+4 - function of each of its parent by the object of BlueWhale
+
+4. Write a program to create a class called Employee with methods called work() and getSalary(). Create a subclass called HRManager that overrides the work() method and adds a new method called addEmployee().
+5. Write a program to create a class called Vehicle with a method called drive(). Create a subclass called Car that overrides the drive() method to print "Repairing a car".
+
+
